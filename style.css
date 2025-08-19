@@ -9,7 +9,7 @@ body{
     width: 100%;
 }
 nav{
-    background-color: rgb(77, 76, 76);
+    background-color: rgb(28, 28, 28);
     margin: 0px;
     position: fixed;
     width: 100%;
@@ -198,4 +198,5 @@ footer{
     text-align: center;
     width: 300px;
     padding: 30px 550px;
+
 }
